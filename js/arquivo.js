@@ -1,3 +1,8 @@
+let num1 = Number(prompt("digite o primeiro número: "));
+let num2 = Number(prompt("digite o segundo número: "));
+
+alert("resultado da soma: " + (num1 + num2));
+
 var global = "Seésciésci";
 console.log(global);
 function exemplo2() {
