@@ -1,0 +1,25 @@
+h1 {
+    color: #4caf50;
+}
+
+h2 {
+    color: #333
+}
+.exercicio, .exercicio2,.exercicio3,.exercicio4,.exercicio5,.exercicio6,.exercicio7,.exercicio8,.exercicio9,.exercicio10,.exercicio11,.exercicio12,.exercicio13{
+    border: 1px solid #000;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 0px;
+}
+
+input, button {
+    margin: 5px 0;
+    padding: 8px;
+    font-size: 14px;
+    width: 300px;
+    height: 40px;
+    box-sizing: border-box;
+}
+p{  
+    font-weight: bold;
+}
